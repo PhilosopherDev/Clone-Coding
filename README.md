@@ -1,6 +1,6 @@
 # Clone Coding
 
-## :bulb: Overview
+## Overview
 
 - Udemy
   - Brad Traversy
