@@ -2,7 +2,7 @@
 
 - # Overview
   - [Youtube](#youtube)
-    - [Interactive Developer](#interactive-developer-link)
+    - [Interactive Developer](#interactive-developer)
       - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자)
 
   - [Udemy](#udemy)
