@@ -12,12 +12,12 @@
 - ## Youtube
   - ### Interactive Developer
     - ### [줄에 매달려 흔들리는 상자](https://www.youtube.com/watch?v=XNxkVVK6m80&list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm&index=3)
-      - 🗄️ [My Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
       - 🌀 [My Live Page](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
+      - 🗄️ [My Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
 
 - ## Udemy
     - ### Brad Traversy
       - ### [HotelBT](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
-        - 🗄️ [My Github](https://github.com/PhilosopherProgrammer/hotel-BT)
         - 🌀 [My Live Page](https://philosopherprogrammer.github.io/hotel-BT/)
+        - 🗄️ [My Github](https://github.com/PhilosopherProgrammer/hotel-BT)
 
